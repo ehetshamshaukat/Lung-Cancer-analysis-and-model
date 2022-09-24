@@ -2,7 +2,6 @@
 lung cancer dataset
 ## Dataset
 * Kaggle dataset
-* Lung cancer dataset consist of fifteen features and one target variable
 * Dataset:https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
 ## Libraries
 * Numpy
@@ -11,6 +10,8 @@ lung cancer dataset
 * Sklearn
 ## Data Analysis
 ## Machine Learning 
-* 
-* Logistic regression
+* Algorithm: logistic regression
 * Achieved accuracy of 93%
+## Achievement
+* Bronze medal
+* Fifteen votes
